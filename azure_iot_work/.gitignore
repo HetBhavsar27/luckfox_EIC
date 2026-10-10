@@ -1,0 +1,13 @@
+# Generated Azure SDK output
+azure-build-arm/
+azure-install-arm/
+
+# Local test output
+openssl_test/
+telemetry-build-arm/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*~
